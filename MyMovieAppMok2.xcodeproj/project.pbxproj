@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9349DA592B6163840014C149 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9349DA582B6163840014C149 /* ViewController2.swift */; };
 		937EBF122B5EC6010014F4B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937EBF112B5EC6010014F4B5 /* AppDelegate.swift */; };
 		937EBF142B5EC6010014F4B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937EBF132B5EC6010014F4B5 /* SceneDelegate.swift */; };
 		937EBF162B5EC6010014F4B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937EBF152B5EC6010014F4B5 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9349DA582B6163840014C149 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		937EBF0E2B5EC6010014F4B5 /* MyMovieAppMok2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMovieAppMok2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		937EBF112B5EC6010014F4B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		937EBF132B5EC6010014F4B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				937EBF132B5EC6010014F4B5 /* SceneDelegate.swift */,
 				937EBF152B5EC6010014F4B5 /* ViewController.swift */,
 				937EBF172B5EC6010014F4B5 /* Main.storyboard */,
+				9349DA582B6163840014C149 /* ViewController2.swift */,
 				937EBF1A2B5EC6030014F4B5 /* Assets.xcassets */,
 				937EBF1C2B5EC6030014F4B5 /* LaunchScreen.storyboard */,
 				937EBF1F2B5EC6030014F4B5 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				937EBF162B5EC6010014F4B5 /* ViewController.swift in Sources */,
+				9349DA592B6163840014C149 /* ViewController2.swift in Sources */,
 				937EBF122B5EC6010014F4B5 /* AppDelegate.swift in Sources */,
 				937EBF142B5EC6010014F4B5 /* SceneDelegate.swift in Sources */,
 			);
